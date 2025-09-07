@@ -1,4 +1,5 @@
 # **Recipe Finder App**
+# Link: https://nehalafsar.github.io/Recipe-Finder/
 
 ### **Project Overview**
 
@@ -19,5 +20,6 @@ This is a single-page, responsive web application built with HTML, Tailwind CSS,
 * **TheMealDB API**: The primary data source for all recipe information.
 
 ### **Setup and Installation**
+
 
 To run this project, simply save the code as an index.html file and open it in your web browser. No server or additional dependencies are required, making it easy to share and showcase.
